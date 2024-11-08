@@ -5,7 +5,7 @@
 package bike.store;
 
 import java.awt.Toolkit;
-import static javax.swing.UIManager.get;
+//import static javax.swing.UIManager.get;
 
 /**
  *
